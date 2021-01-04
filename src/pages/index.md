@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: only your vision can limit you
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      Our journey together will start with a vision of a solution based on our
+      experiences.  Together we can see something special.
     actions:
       - label: Learn More
         url: /features
